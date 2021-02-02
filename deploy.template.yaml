@@ -1,0 +1,8 @@
+spec:
+  services:
+    - name: project
+      git:
+        branch: master
+        repo_clone_url: https://github.com/mclk74/project.git
+    databases:
+    - name: 
